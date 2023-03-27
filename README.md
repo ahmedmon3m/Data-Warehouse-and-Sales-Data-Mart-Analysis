@@ -72,9 +72,8 @@ A Data Mart is focused on a single functional area of an organization and contai
 
 <B>The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customer, and per product.</B>
 
-<B>You can check the dashboard and try it out!</B>(https://app.powerbi.com/groups/me/reports/7251820f-0346-4bdc-8d17-ed56e29fbeb5/ReportSection)
+<B>You can check the dashboard and try it out!</B>([https://app.powerbi.com/groups/me/reports/7251820f-0346-4bdc-8d17-ed56e29fbeb5/ReportSection](https://www.novypro.com/project/sales-data-mart))
 
-<B>You can check my Portfolio and try discover other dashboards!</B>(https://yehiakhaledabouzeid.wordpress.com/)
 
-![04 5-Sales Overview](![Date](https://user-images.githubusercontent.com/66099625/227853202-63274e62-7296-4746-b4f1-6197d9575359.png)
-)
+![Capture](https://user-images.githubusercontent.com/66099625/227856650-17eb5e79-78d4-451d-87d8-dc0034afe167.PNG)
+
