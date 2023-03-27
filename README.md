@@ -76,4 +76,5 @@ A Data Mart is focused on a single functional area of an organization and contai
 
 <B>You can check my Portfolio and try discover other dashboards!</B>(https://yehiakhaledabouzeid.wordpress.com/)
 
-![04 5-Sales Overview](file:///H:/Excel/SQL/200991713-6a5d8688-e3d1-422c-b7ca-2a3c634c7142.png)
+![04 5-Sales Overview](![Date](https://user-images.githubusercontent.com/66099625/227853202-63274e62-7296-4746-b4f1-6197d9575359.png)
+)
