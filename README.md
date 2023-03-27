@@ -51,7 +51,7 @@ A Data Mart is focused on a single functional area of an organization and contai
 ![Capture](https://user-images.githubusercontent.com/90741989/205361677-9809f5c6-23e8-4505-a043-ed3e0c220d97.PNG)
 
 # Step 2 
-![Screenshot (85)](https://user-images.githubusercontent.com/114536072/206842283-ef3e8641-d906-47f3-9611-74156df2712d.png)
+![Screenshot (85)](H:\Excel\SQL\Product.png)
 
 #  Step 3 
 
