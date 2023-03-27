@@ -50,24 +50,6 @@ A Data Mart is focused on a single functional area of an organization and contai
 
 ![Capture](https://user-images.githubusercontent.com/90741989/205361677-9809f5c6-23e8-4505-a043-ed3e0c220d97.PNG)
 
-# Step 2 
-![Screenshot (85)](H:\Excel\SQL\Product.png)
-
-#  Step 3 
-
-![Screenshot (86)](https://user-images.githubusercontent.com/105324794/201488472-da7f656d-e61c-4c3d-9bf8-d9776178f329.png)
-
-# Step 4
-![Screenshot (87)](https://user-images.githubusercontent.com/105324794/201488529-0cd45225-b4c0-4937-b4e7-e2c84e721ced.png)
-
-# Step 5-1- Fact Table 
-
-![Screenshot (88)](https://user-images.githubusercontent.com/105324794/201488545-7f80718c-8526-4360-8273-bdc0c84253b9.png)
-
-# Step 5-2   Fact Table 
-
-![Screenshot (89)](https://user-images.githubusercontent.com/105324794/201488588-5501e4e3-619e-4d7f-8671-634a6426620f.png)
-
 3- Implementing ETL
 1- <B>Slowly Changing Dimension (SCD)</B>
 
@@ -105,4 +87,3 @@ A Data Mart is focused on a single functional area of an organization and contai
 <B>You can check my Portfolio and try discover other dashboards!</B>(https://yehiakhaledabouzeid.wordpress.com/)
 
 ![04 5-Sales Overview](https://user-images.githubusercontent.com/114536072/206843418-556c0316-c9aa-4613-9713-1abd6f85ac1f.jpg)
-
