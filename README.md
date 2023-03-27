@@ -63,7 +63,7 @@ A Data Mart is focused on a single functional area of an organization and contai
 3- <B>Incremental load</B>
 
 ![3-Incremental Load](https://user-images.githubusercontent.com/114536072/206842315-1e498732-4073-4b10-951d-eb2bfa924782.png)
-3- <B>Fact Sales</B>
+
 ![4-Incremental Load](https://user-images.githubusercontent.com/114536072/206842327-cf7261a0-fd54-4a80-b1cb-704f5968b3bc.png)
 
 ##	4- Building Visual dashboards
@@ -76,4 +76,4 @@ A Data Mart is focused on a single functional area of an organization and contai
 
 <B>You can check my Portfolio and try discover other dashboards!</B>(https://yehiakhaledabouzeid.wordpress.com/)
 
-![04 5-Sales Overview](https://user-images.githubusercontent.com/114536072/206843418-556c0316-c9aa-4613-9713-1abd6f85ac1f.jpg)
+![04 5-Sales Overview](file:///H:/Excel/SQL/200991713-6a5d8688-e3d1-422c-b7ca-2a3c634c7142.png)
